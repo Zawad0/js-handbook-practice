@@ -41,7 +41,7 @@ js-handbook-exercises/
 └── README.md
 ```
 
-Naming convention for exercise files: `exerciseN.js` (e.g. `exercise1.js`, `exercise2.js`) inside the relevant chapter folder, matching the exercise numbering in the book.
+Naming convention for exercise files: `exercise-N.js` (e.g. `exercise-1.js`, `exercise-2.js`) inside the relevant chapter folder, matching the exercise numbering in the book.
 
 ## ▶️ Running the Code
 
@@ -60,7 +60,7 @@ npx serve ch-09-the-dom
 ## ✅ Progress Tracker
 
 ### Part I — Language Foundations
-- [ ] Ch 1 — Getting Started (3 exercises)
+- [x] Ch 1 — Getting Started (3 exercises)
 - [ ] Ch 2 — Variables and Data Types (4 exercises)
 - [ ] Ch 3 — Operators and Control Flow (4 exercises)
 - [ ] Ch 4 — Loops (5 exercises)
