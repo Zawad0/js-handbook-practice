@@ -63,7 +63,7 @@ npx serve ch-09-the-dom
 - [x] Ch 1 — Getting Started (3 exercises)
 - [x] Ch 2 — Variables and Data Types (4 exercises)
 - [x] Ch 3 — Operators and Control Flow (4 exercises)
-- [ ] Ch 4 — Loops (5 exercises)
+- [x] Ch 4 — Loops (5 exercises)
 - [ ] Ch 5 — Functions (5 exercises)
 - [ ] Ch 6 — Arrays (6 exercises)
 - [ ] Ch 7 — Objects and JSON (5 exercises)
