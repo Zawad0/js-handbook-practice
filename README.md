@@ -60,7 +60,7 @@ npx serve ch-09-the-dom
 ## ✅ Progress Tracker
 
 ### Part I — Language Foundations
-- [ ] Ch 1 — Getting Started (3 exercises)
+- [x] Ch 1 — Getting Started (3 exercises)
 - [ ] Ch 2 — Variables and Data Types (4 exercises)
 - [ ] Ch 3 — Operators and Control Flow (4 exercises)
 - [ ] Ch 4 — Loops (5 exercises)
