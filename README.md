@@ -18,26 +18,26 @@ Each chapter gets its own folder containing one file per exercise, plus a scratc
 
 ```
 js-handbook-exercises/
-├── ch01-getting-started/
-├── ch02-variables-and-data-types/
-├── ch03-operators-and-control-flow/
-├── ch04-loops/
-├── ch05-functions/
-├── ch06-arrays/
-├── ch07-objects-and-json/
-├── ch08-scope-hoisting-closures/
-├── ch09-the-dom/
+├── ch-01-getting-started/
+├── ch-02-variables-and-data-types/
+├── ch-03-operators-and-control-flow/
+├── ch-04-loops/
+├── ch-05-functions/
+├── ch-06-arrays/
+├── ch-07-objects-and-json/
+├── ch-08-scope-hoisting-closures/
+├── ch-09-the-dom/
 │   ├── index.html
 │   └── app.js
-├── ch10-asynchronous-javascript/
-├── ch11-errors-debugging-clean-code/
-├── ch12-es6-toolbox/
-├── ch13-big-o/
-├── ch14-searching-algorithms/
-├── ch15-sorting-algorithms/
-├── ch16-stacks-and-queues/
-├── ch17-recursion-linked-lists-hashmaps/
-├── ch18-trees/
+├── ch-10-asynchronous-javascript/
+├── ch-11-errors-debugging-clean-code/
+├── ch-12-es6-toolbox/
+├── ch-13-big-o/
+├── ch-14-searching-algorithms/
+├── ch-15-sorting-algorithms/
+├── ch-16-stacks-and-queues/
+├── ch-17-recursion-linked-lists-hashmaps/
+├── ch-18-trees/
 └── README.md
 ```
 
