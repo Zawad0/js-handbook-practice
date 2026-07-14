@@ -66,7 +66,7 @@ npx serve ch-09-the-dom
 - [x] Ch 4 — Loops (5 exercises)
 - [x] Ch 5 — Functions (5 exercises)
 - [x] Ch 6 — Arrays (6 exercises)
-- [ ] Ch 7 — Objects and JSON (5 exercises)
+- [x] Ch 7 — Objects and JSON (5 exercises)
 
 ### Part II — Modern JavaScript in Practice
 - [ ] Ch 8 — Scope, Hoisting, and Closures (3 exercises)
